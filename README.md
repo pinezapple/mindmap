@@ -1,2 +1,2 @@
 # mindmap
-My mind maps
+My mindmaps
